@@ -41,6 +41,7 @@ div.characters {
 
 div.char {
   border: 2px solid black;
+  max-width: 303px;
 }
 div.char h2,
 div.char h3 {
